@@ -1,0 +1,1 @@
+find us on nostr: npub16we82lw9jyxn3nqzafk4zsv7kt08f7csjut9q8t65aejvdde7ydsde8xln
