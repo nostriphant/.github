@@ -7,7 +7,7 @@ nostr:nevent1qqsdyl84tsgsq4r4e7cyklkrn3u9u9v3hs05yl4hwuzrpln50zz3klcpz4mhxue69uh
 
 ---
 
-the issues in this repo are used to collect ideas for news initiatives. 
+the issues in this repo are used to collect ideas for new initiatives. 
 
 ---
 
